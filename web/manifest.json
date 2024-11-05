@@ -1,6 +1,6 @@
 {
-    "name": "music_notes_player_app_setup",
-    "short_name": "music_notes_player_app_setup",
+    "name": "tunes_player",
+    "short_name": "tunes_player",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
